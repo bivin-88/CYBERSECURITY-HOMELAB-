@@ -29,5 +29,6 @@ monitoring threats and analyzing logs.
 simulation and mitigation strategy.
 
 *Homelab Architecture Diagram*
+
 <img width="680" alt="Screenshot 2025-02-09 at 8 51 05 PM" src="https://github.com/user-attachments/assets/9e2267d2-987c-4083-b056-ab7daabded93" />
 
